@@ -2,9 +2,9 @@
 Este é um projeto que fiz com o objetivo de clonar o site do Starbucks utilizando HTML e CSS. O objetivo do projeto foi praticar minhas habilidades em HTML e CSS, em particular o uso de Grid e Flexbox.
 
 ## Tecnologias Utilizadas
--HTML
--CSS
-Uso de Grid e Flexbox
+- HTML
+- CSS
+Uso de **Grid** e **Flexbox**
 O uso de Grid e Flexbox foi fundamental para a construção do layout do site. O Grid foi utilizado para criar a estrutura da página, enquanto o Flexbox foi usado para posicionar os elementos dentro de cada seção.
 
 ## Como Visualizar o Projeto
